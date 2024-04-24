@@ -1,3 +1,3 @@
 # nextjs-template
 
-[site](http://https://nextjs-template-two-wheat.vercel.app/)
+[site](https://nextjs-template-two-wheat.vercel.app/)
